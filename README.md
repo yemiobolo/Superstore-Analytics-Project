@@ -17,7 +17,11 @@ Some Power BI features were used including DAX, Modeling, filters etc.
 The dataset was provided by the instructor which i extracted into the Power BI for cleaning, analysis and visualization. It contains 9427 rows and 24 columns
 
 ## Data Transformation and Cleaning
-Data was efficiently cleaned and transformed using the Power Query Editor of Power BI. To calculate the total sales and total profit, I used the DAX concepts.
+Data was efficiently cleaned and transformed using the Power Query Editor of Power BI. To calculate the total sales and total number of orders, I used the DAX concepts.
+
+DAX function              |   Result
+:------------------------:|:--------------------:
+![](Dax function.PNG)     | ![](Dax function2.PNG)
 
 ## Data Analysis and Visuals
 ![](https://github.com/yemiobolo/yemi-portfolio/blob/main/sales%20performance%20visuals.PNG)
