@@ -21,7 +21,7 @@ Data was efficiently cleaned and transformed using the Power Query Editor of Pow
 DAX function                                                                                        |   Result
 :--------------------------------------------------------:                                          |:---------------------------------                                
 ![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/DAX/Dax%20function.PNG)     | ![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/DAX/Dax%20function%202.PNG)
-
+![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/DAX/Dax.PNG)                | ![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/DAX/Dax1.PNG)
 ## Data Analysis and Visuals
 ![](https://github.com/yemiobolo/yemi-portfolio/blob/main/sales%20performance%20visuals.PNG)
 - From the dashboard, it is observed that there are three(3) product categories with the Technology category topping the chart in terms of sales for the year in consideration.
