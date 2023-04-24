@@ -21,7 +21,7 @@ Data was efficiently cleaned and transformed using the Power Query Editor of Pow
 
 DAX function                                                                                        |   Result
 :--------------------------------------------------------:                                          |:---------------------------------                                
-![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/DAX/Dax%20function.PNG)     | ![](Dax function2.PNG)
+![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/DAX/Dax%20function.PNG)     | ![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/DAX/Dax%20function%202.PNG)
 
 ## Data Analysis and Visuals
 ![](https://github.com/yemiobolo/yemi-portfolio/blob/main/sales%20performance%20visuals.PNG)
