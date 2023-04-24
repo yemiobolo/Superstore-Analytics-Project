@@ -23,12 +23,12 @@ DAX function                                                                    
 ![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/Superstore%20Images/Dax%20function.PNG)     | ![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/Superstore%20Images/Dax%20function%202.PNG)
 ![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/Superstore%20Images/Dax.PNG)                | ![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/Superstore%20Images/Dax1.PNG)
 ## Data Analysis and Visuals
-![](https://github.com/yemiobolo/yemi-portfolio/blob/main/sales%20performance%20visuals.PNG)
+![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/Superstore%20Images/sales%20performance%20visuals.PNG)
 - From the dashboard, it is observed that there are three(3) product categories with the Technology category topping the chart in terms of sales for the year in consideration.
 - The Central region has the highest sales followed closely by the East region.
 - In the 4th Quarter of 2012, total sales soared, November to be precise while the total orders gained momentum between the 1st and 2nd Quarter or 2013 especially in March.
 
-![](https://github.com/yemiobolo/yemi-portfolio/blob/main/sales%20by%20state.PNG)
+![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/Superstore%20Images/sales%20by%20state.PNG)
 
 ## Conclusion
 - California has the highest impact on income by state or pronvince.
