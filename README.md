@@ -19,9 +19,9 @@ The dataset was provided by the instructor which i extracted into the Power BI f
 ## Data Transformation and Cleaning
 Data was efficiently cleaned and transformed using the Power Query Editor of Power BI. To calculate the total sales and total number of orders, I used the DAX concepts.
 
-DAX function              |   Result
-:------------------------:|:--------------------:
-![](Dax function.PNG)     | ![](Dax function2.PNG)
+DAX function                                                                                        |   Result
+:--------------------------------------------------------:                                          |:---------------------------------                                
+![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/DAX/Dax%20function.PNG)     | ![](Dax function2.PNG)
 
 ## Data Analysis and Visuals
 ![](https://github.com/yemiobolo/yemi-portfolio/blob/main/sales%20performance%20visuals.PNG)
