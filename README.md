@@ -29,7 +29,7 @@ DAX function                                                                    
 - In the 4th Quarter of 2012, total sales soared, November to be precise while the total orders gained momentum between the 1st and 2nd Quarter or 2013 especially in March.
 
 ![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/Superstore%20Images/sales%20by%20state.PNG)
-
+![](https://github.com/yemiobolo/Superstore-Analytics-Project/blob/main/Superstore%20Images/sales%20trend%20visuals.PNG)
 ## Conclusion
 - California has the highest impact on income by state or pronvince.
 - There are about 9427 products in the stores with a worth of about 895 Million Dollars.
